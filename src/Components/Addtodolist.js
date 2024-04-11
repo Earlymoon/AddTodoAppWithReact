@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import { Todocontext } from "../Context/Todocontext";
 import "./Addtodolist.css";
-import Typical from "react-typical";
+
 const Addtodolist = () => {
   const { todos, state, AddtodoAction } = useContext(Todocontext);
   console.log(state);
