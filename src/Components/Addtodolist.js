@@ -30,12 +30,7 @@ const Addtodolist = () => {
   return (
     <div className="form-container">
       <h1 className="header-title">
-        I'm
-        <Typical
-          steps={["    ToDo Application Developed Using  React🔥", 1000]}
-          loop={Infinity}
-          wrapper="b"
-        />
+        I'm ToDo Application Developed Using React🔥
       </h1>
       <form onSubmit={handleSubmit}>
         <input
