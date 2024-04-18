@@ -1,3 +1,9 @@
+
+
+
+<img width="769" alt="todoapp" src="https://github.com/Earlymoon/AddTodoAppWithReact/assets/117526318/2aea181e-e6b8-4880-9974-3d8a0f065518">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
